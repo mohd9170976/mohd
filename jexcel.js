@@ -1,12 +1,3 @@
-/**
- * Jspreadsheet v4.10.1
- *
- * Website: https://bossanova.uk/jspreadsheet/
- * Description: Create amazing web based spreadsheets.
- *
- * This software is distribute under MIT License
- */
-
 var formula = (function() {
     // Based on sutoiku work (https://github.com/sutoiku)
     var error = (function() {
